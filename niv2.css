@@ -1,0 +1,157 @@
+.show {
+    visibility: visible;
+}
+
+
+body
+{
+    font-family: 'Baloo Tamma 2', cursive;
+  
+    color:black;
+    background-image: url(background.png);
+}
+h1
+{
+    font-size: 60px;
+    color: rgb(150, 3, 3);
+    margin-left: 36%;
+
+}
+
+
+
+img{
+    position: absolute;
+    top: 140px;
+    left: 130px;
+    visibility: hidden;
+}
+
+#btn {
+    font-family: 'Baloo Tamma 2', cursive;
+    color: aliceblue;
+    position: absolute;
+    top: 90px;
+    left: 1250px;
+    border-radius: 40px;
+    padding: 15px;
+    background-color: salmon;
+}
+#img{
+    left: 1100px;
+    top: 150px;
+}
+#img1{
+    visibility: visible;
+
+}
+.ip1
+{
+    font-family: 'Baloo Tamma 2', cursive;
+    background-color: gold;
+    width: 40px;
+    font-size: 25px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin-bottom: 5px;
+    position: absolute; visibility: visible; left: 90px; top: 150px;
+}
+.ip2
+{
+    font-family: 'Baloo Tamma 2', cursive;
+    background-color: gold;
+    width: 40px;
+    font-size: 25px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin-bottom: 5px;
+    position: absolute; visibility: visible; left: 90px; top: 215px;
+}
+.ip3
+{
+    font-family: 'Baloo Tamma 2', cursive;
+    background-color: gold;
+    width: 40px;
+    font-size: 25px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin-bottom: 5px;
+    position: absolute; visibility: visible; left: 90px; top: 280px;
+}
+.ip4
+{
+    font-family: 'Baloo Tamma 2', cursive;
+    background-color: gold;
+    width: 40px;
+    font-size: 25px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin-bottom: 5px;
+    position: absolute; visibility: visible; left: 90px; top: 345px;
+}
+
+.test
+{
+    font-family: 'Baloo Tamma 2', cursive;
+    background-color: rgba(247, 3, 3, 0.719);
+    width: 62px;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 35px;
+    border: 2px solid black;
+    border-radius: 10%;
+    cursor:pointer;
+    position: absolute;  left: 39%; top: 450px;
+}
+.test:hover
+{
+    background-color: rgba(146, 3, 3, 0.829);
+    transition: 0.5s;
+}
+.op
+{
+    font-family: 'Baloo Tamma 2', cursive;
+    background-color:blanchedalmond;
+    width: 40px;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 20px;
+    border: 2px solid black;
+    border-radius: 10%;
+    position: absolute; visibility: visible; left: 810px; top: 230px; z-index: 200;
+}
+#bulb
+{
+    position: absolute;
+    left: 900px;
+    top: 200px;
+    visibility: visible;
+}
+
+
+#button{
+    font-family: 'Baloo Tamma 2', cursive;
+    background-color: rgba(3, 49, 17, 0.719);
+    width: 100px;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 20px;
+    border: 2px solid black;
+    border-radius: 10%;
+    cursor:pointer;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    color: aliceblue;
+
+}
+
+#font1 {
+    text-align: center;
+    margin-top: 305px;
+    font-size: large;
+}
